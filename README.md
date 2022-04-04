@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Paritkar
-- 👀 I’m interested in ...
+- 👀 I’m interested in FIA FE & FIA WRC
 - 🌱 I’m currently learning Electrical Engineering at IIT Bombay
 - 💞️ I’m looking to collaborate on ...
 - 📫 paritkary25@gmail.com
